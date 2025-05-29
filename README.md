@@ -1,34 +1,57 @@
 # sciencecar
+## Teaching Programming with LEGO SPIKE Prime and Python
+#### I made this project on high school. It was designed as an educational tool to teach children and teenagers the basics of programming and physics in a fun and intuitive way.
+#### To stimulate creativity and problem-solving by letting students program and control a LEGO SPIKE Prime car using both a PS4 controller and a notebook keyboard, integrating Python and block-based programming.
 
-### **Objetivo:** Desenvolver a criatividade e resolução de problemas com um carrinho de LEGO SPIKE Prime controlado por um controle PS4 e teclado do notebook, integrando Python e blocos de programação para ensinar conceitos básicos de programação e física para crianças e adolescentes em aulas presenciais.
+<div style="display: inline_block"><br/>
+   <img align="center" alt="C" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="C" src="imgs/WhatsApp Image 2024-08-28 at 2.20.20 PM.jpeg" />
 </div>
-(imagem do wall-e o carrinho professor)
+(image of wall-e the teacher's cart)
 
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="C" src="imgs/WhatsApp Image 2024-08-28 at 2.18.21 PM.jpeg" />
 </div>
-(sensor magnetico)
+(magnetic sensor)
 
-# **Componentes:**
+# My Role:
+
+#### I led in-person workshops where I guided kids through the process of programming their own LEGO cars. The car — affectionately nicknamed the "Wall-E Teacher" — served as both a playful model and an educational tool.
+#### The focus was on hands-on learning: students could see their code come to life and immediately understand how logic, motion, and electronics interact.
+
+<div style="display: inline_block"><br/>
+   <img align="center" alt="C" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+# **Components:**
 
 #### `*` LEGO SPIKE Prime
-#### `*` Controle PS4
-#### `*` Teclado do Notebook
-#### `*` Python e blocos de programação
-#### `*` sensor magnetico
+#### `*` PS4 Controller
+#### `*` Notebook Keyboard
+#### `*` Python & Scratch-style blocks
+#### `*` Magnetic Sensor
 
-# **Funcionalidades:**
+<div style="display: inline_block"><br/>
+   <img align="center" alt="C" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
-#### `*` Controle do carrinho via Bluetooth e teclado
-#### `*` Interface gráfica com blocos de programação
-#### `*` Demonstração de conceitos de física como velocidade, aceleração e eletromagnetismo
+# **Features:**
 
-# Benefícios:
+#### `*` Control via Bluetooth controller and keyboard
+#### `*` Graphical programming interface for beginners and Programming logic
+#### `*` Demonstrations of physical concepts like Speed & acceleration and Electromagnetism
 
-### Ensino de programação e física de forma interativa e prática.
+<div style="display: inline_block"><br/>
+   <img align="center" alt="C" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
-git add . ; git commit -m ... ; git push origin main
+# Educational Benefits:
+
+### Teaches coding through play
+### Encourages logical thinking and experimentation
+### Bridges the gap between play and STEM education
